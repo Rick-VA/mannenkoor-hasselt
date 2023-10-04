@@ -1,6 +1,6 @@
 <template>
+  <header>
   <nav class="navbar">
-
       <RouterLink to="/">
         <img  src="/img/hasselts_mannenkoor_logo.png" alt="logo" class="nav-logo">
       </RouterLink>
@@ -15,7 +15,7 @@
         <span class="bar"></span>
       </div>
     </nav>
-
+  </header>
 </template>
 
 <script>
@@ -70,7 +70,8 @@ export default {
   }
 
   header {
-    background: #f5f5f5;
+    background: white;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
   }
 
   li {
@@ -155,7 +156,7 @@ export default {
       gap: 0;
       display: flex;
       flex-direction: column;
-      background: #f5f5f5;
+      background: white;
       width: 100%;
       text-align: center;
       transition: 0.3s;
