@@ -1,5 +1,5 @@
 <template>
-  <img src="/img/groeps-foto.jpg" class="group-photo">
+  <img src="/img/groepfoto.jpeg" class="group-photo">
 </template>
 
 <script>
@@ -15,8 +15,10 @@ export default {
 <style lang="scss" scoped>
   .group-photo {
     width: 100%;
-    aspect-ratio: 3/2;
-    object-fit: contain;
+
+    margin-top: -10rem;
+    z-index: 0;
+    position: absolute;
   }
 
 </style>

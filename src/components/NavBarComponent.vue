@@ -72,6 +72,8 @@ export default {
   header {
     background: white;
     box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+    z-index: 99;
+    position: relative;
   }
 
   li {
