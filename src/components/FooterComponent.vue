@@ -41,7 +41,7 @@
     }
   }
   .footer-container {
-    width: 30%;
+    width: 80%;
     height: 20rem;
     background: #363636;
     display: flex;
@@ -72,7 +72,7 @@
 
   .footer-img {
     img {
-      width: 100%;
+      width: 30dvw;
       aspect-ratio: 3/2;
       object-fit: contain;
     }
@@ -83,6 +83,23 @@
     flex-direction: column;
     align-content: center;
     margin-bottom: 2rem;
+  }
+
+  @media (max-width: 640px) {
+    .footer-container {
+      flex-direction: column;
+      margin-left: 0;
+    }
+
+    .footer-img {
+      img {
+        width: 50dvw;
+        aspect-ratio: 3/2;
+        object-fit: contain;
+      }
+    }
+
+
   }
 
 
