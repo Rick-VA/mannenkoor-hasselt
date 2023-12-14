@@ -67,6 +67,8 @@ export default {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-weight: 600;
+    font-size: 18px;
   }
 
   header {
@@ -81,7 +83,7 @@ export default {
   }
 
   .navbar {
-    min-height: 5rem;
+    min-height: 6.5rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
