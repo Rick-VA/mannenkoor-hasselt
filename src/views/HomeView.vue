@@ -1,6 +1,7 @@
 <template>
   <div class="group-photo-container">
     <img src="/img/groepfoto-nOsYugKv4-transformed1.jpeg" class="group-photo">
+    <img src="/img/groepfoto-nOsYugKv4-transformed.jpeg" class="group-photo1" style="display: none">
     <div class="group-photo-text">
       <p >Welkom op de website van het Hasselt's Mannenkoor</p>
     </div>
@@ -36,7 +37,7 @@ export default {
 
 <style lang="scss" scoped>
   .group-photo {
-    width: 95%;
+    width: 100%;
     object-fit: contain;
     z-index: 0;
     top: 1.5rem;
@@ -60,7 +61,7 @@ export default {
     padding: .5rem;
     z-index: 1;
     position: relative;
-    top: 35rem;
+    top: 30rem;
     width: 28rem;
     background-color: white;
   }
@@ -73,6 +74,7 @@ export default {
     font-weight: 500;
     gap: 1rem;
     flex-direction: column;
+    margin-top:2.5rem;
 
     p {
       width: 30%;
@@ -91,6 +93,251 @@ export default {
       cursor: pointer;
       margin-bottom: 3rem;
     }
+  }
+
+  @media (max-width: 1500px) {
+    .group-photo-text {
+      top: 25rem;
+    }
+
+    .group-photo-container {
+      height: 80dvh;
+    }
+
+    .info-text {
+      margin-top: 0;
+    }
+
+  }
+
+  @media (max-width: 1300px) {
+    .group-photo-text {
+      top: 20rem;
+    }
+
+    .group-photo {
+      top: 3.5rem;
+    }
+
+    .group-photo-container {
+      height: 70dvh;
+    }
+
+    .info-text {
+      margin-top: 0;
+    }
+
+  }
+
+
+  @media (max-width: 1300px) {
+    .group-photo-text {
+      top: 20rem;
+      font-size: 1.5rem;
+      width: 20rem;
+      font-weight: 550;
+
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 4rem;
+    }
+
+    .group-photo-container {
+      height: 62dvh;
+    }
+
+  }
+
+  @media (max-width: 900px) {
+    .group-photo-text {
+      top: 15rem;
+      font-size: 1.5rem;
+      width: 20rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+    }
+
+    .group-photo-container {
+      height: 50dvh;
+    }
+
+  }
+
+
+  @media (max-width: 799px) {
+    .group-photo-text {
+      top: 11rem;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+    }
+
+    .group-photo-container {
+      height: 40dvh;
+    }
+
+  }
+
+  @media (max-width: 640px) {
+    .group-photo-text {
+      top: 15rem;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+      display: none;
+    }
+
+    .group-photo1 {
+      top: 3rem;
+      display: block!important;
+      width: 100%;
+      object-fit: contain;
+      z-index: 0;
+      position: absolute;
+    }
+
+    .group-photo-container {
+      height:50dvh;
+    }
+
+  }
+
+  @media (max-width: 540px) {
+    .group-photo-text {
+      top: 12rem;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+      display: none;
+    }
+
+    .group-photo1 {
+      top: 3rem;
+      display: block!important;
+      width: 100%;
+      object-fit: contain;
+      z-index: 0;
+      position: absolute;
+    }
+
+    .group-photo-container {
+      height: 40dvh;
+    }
+
+  }
+
+  @media (max-width: 460px) {
+    .group-photo-text {
+      top: 10rem;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+      display: none;
+    }
+
+    .group-photo1 {
+      top: 4rem;
+      display: block!important;
+      width: 100%;
+      object-fit: contain;
+      z-index: 0;
+      position: absolute;
+    }
+
+    .group-photo-container {
+      height: 35dvh;
+    }
+
+  }
+
+  @media (max-width: 415px) {
+    .group-photo-text {
+      top: 8rem;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+      display: none;
+    }
+
+    .group-photo1 {
+      top: 4rem;
+      display: block!important;
+      width: 100%;
+      object-fit: contain;
+      z-index: 0;
+      position: absolute;
+    }
+
+    .group-photo-container {
+      height: 35dvh;
+    }
+
   }
 
 

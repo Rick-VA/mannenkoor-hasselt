@@ -35,6 +35,8 @@
     //align-items: center;
     color: white;
     font-weight: 600;
+    position: relative;
+    bottom: 0;
 
     a {
       color: white;
@@ -64,6 +66,7 @@
     align-items: center;
     color: white;
     font-weight: 600;
+    padding-top: 4rem;
 
     a {
       color: white;
@@ -72,9 +75,10 @@
 
   .footer-img {
     img {
-      width: 30dvw;
+      width: 25dvw;
       aspect-ratio: 3/2;
       object-fit: contain;
+      margin-top: 3rem;
     }
   }
 
