@@ -1,9 +1,9 @@
 <template>
 
-  <div class="bestuur-header">
+  <div class="activity-header">
     <h1><b>Activiteitenkalender.</b></h1>
   </div>
-  <div class="bestuur-text">
+  <div class="activity-text">
     <p>
       ma. 27 februari 2023
       <br>
@@ -78,20 +78,20 @@
 </script>
 
 <style scoped>
-.bestuur-header {
+.activity-header {
   display: flex;
   justify-content: flex-start;
   padding-left: 2.5rem;
   padding-top: 2rem;
 }
 
-.bestuur-text {
+.activity-text {
   padding-left: 2.5rem;
   padding-bottom: 5rem;
   font-size: 19px;
 }
 
-.bestuur-text p {
+.activity-text p {
   line-height: 1.5;
   padding-bottom: 1.5rem;
 }
