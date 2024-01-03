@@ -3,6 +3,7 @@ import HomeView from '../views/HomeView.vue'
 import BestuurView from '../views/BestuurView.vue'
 import DirigentView from '../views/DirigentView.vue'
 import GeschiedenisView from '../views/GeschiedenisView.vue'
+import ActiviteitenView from '../views/ActivityView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -26,7 +27,12 @@ const router = createRouter({
       path: '/geschiedenis',
       name: 'geschiedenis',
       component: GeschiedenisView
-    }
+    },
+    {
+      path: '/activiteiten',
+      name: 'activiteiten',
+      component: ActiviteitenView
+    },
   ],
   linkExactActiveClass: 'activeLink',
 })
