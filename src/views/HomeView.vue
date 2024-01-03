@@ -19,7 +19,9 @@
     </p>
 
     <button type="button">
-      Wordt lid
+      <router-link style="color: white" to="/lidmaatschap">
+        Wordt lid
+      </router-link>
     </button>
   </div>
 

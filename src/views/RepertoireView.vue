@@ -1,9 +1,9 @@
 <template>
 
-  <div class="bestuur-header">
+  <div class="repertoire-header">
     <h1><b>Repertoire</b></h1>
   </div>
-  <div class="bestuur-text">
+  <div class="repertoire-text">
     <p>
       <h3>Het "Hasselt's Mannenkoor" zingt voornamelijk a-capella dat wil zeggen zonder instumentale begeleiding.</h3>
       <br>
@@ -99,14 +99,14 @@
 </script>
 
 <style scoped>
-.bestuur-header {
+.repertoire-header {
   display: flex;
   justify-content: flex-start;
   padding-left: 2.5rem;
   padding-top: 2rem;
 }
 
-.bestuur-text {
+.repertoire-text {
   padding-left: 2.5rem;
   padding-bottom: 5rem;
   font-size: 19px;
