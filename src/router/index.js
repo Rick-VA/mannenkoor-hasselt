@@ -5,6 +5,7 @@ import DirigentView from '../views/DirigentView.vue'
 import GeschiedenisView from '../views/GeschiedenisView.vue'
 import ActiviteitenView from '../views/ActivityView.vue'
 import RepetitiesView from '../views/RepetitiesView.vue'
+import RepertoireView from '../views/RepertoireView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -38,6 +39,11 @@ const router = createRouter({
       path: '/repetities',
       name: 'repetities',
       component: RepetitiesView
+    },
+    {
+      path: '/repertoire',
+      name: 'repertoire',
+      component: RepertoireView
     }
   ],
   linkExactActiveClass: 'activeLink',
