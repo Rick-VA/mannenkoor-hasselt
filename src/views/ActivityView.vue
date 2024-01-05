@@ -5,69 +5,68 @@
   </div>
   <div class="activity-text">
     <p>
-      ma. 27 februari 2023
+      vr. 05 januari 2024
       <br>
-      Algemene ledenvergadering in 't Teeuwland.
+      Nieuwjaarsreceptie in ’t Teeuwland.
+      <br>
+      (aanvang 20.00 uur)
+    </p>
+    <p>
+      ma. 19 februari 2024
+      <br>
+      Algemene Ledenvergadering in ’t Teeuwland.
       <br>
       (aanvang 19.30 uur)
     </p>
     <p>
-      vr. 24 maart 2023
+      ma. 03 juni 2024
       <br>
-      Voorjaarsconcert in de Ontmoetingskerk.
+      Laatste repetitie voor de vakantie.
       <br>
-      (aanvang 19.30 uur, zaal open 19.00 uur)
+
     </p>
     <p>
-      za. 15 april 2023
+      ma. 26 augustus 2024
       <br>
-      Optreden in 't kader van het Hanzejaar 2023.
+      Eerste repetitie na de vakantie.
       <br>
-      (nadere gegevens ontbreken nog)
+
     </p>
     <p>
-      za. 06 mei 2023
+      za. 14 september 2024
       <br>
-      Optreden samen met seniorenorkest Hasselt
+      Open Monumenten Dag 2024.
       <br>
-      in het kader van bevrijdingsdag.
-      <br>
-      In de Baak 's middags tijd nog niet exact bekend.
+      (middag)
     </p>
     <p>
-      ma. 10 juli 2023
-      <br>
-      Laatste repetitie voor de zomervakantie van 2023.
-    </p>
-    <p>
-      za. 26 augustus 2023
-      <br>
-      Zomernarkt.
-      <br>
-      (eerste zaterdag euifeest 2023)
-    </p>
-    <p>
-      ma. 28 augustus 2023
-      <br>
-      Eerste repetitie na de zomervakantie van 2023.
-    </p>
-    <p>
-      za. 09 september 2023
-      <br>
-      Open Monumenten Dag
-    </p>
-    <p>
-      za. 16 september 2023
+      za. 21 september 2024
       <br>
       Koorreisje.
+      <br>
+      (middag)
     </p>
     <p>
-      ma. 16 oktober 2023 t/m za. 21 oktober 2022
+      ma. 07 oktober 2024 t/m za. 12 oktober 2024
       <br>
-      Appelactieweek.
-      <br>
-      (week 42)
+      Week van de appelverkoop.
     </p>
+    <p>
+    zo. 17 december 2024
+    <br>
+    Medewerking verlenen aan de kerstavonddienst
+    in de Ichthus kerk.
+    <br>
+    (aanvang 19.00 uur)
+    (aanwezig 17.45 uur)
+  </p>
+  <p>
+    za. 21 december 2024
+    <br>
+    Medewerking verlenen aan kerstconcert
+    Fanfarekorps Irene in de Grote kerk.
+  </p>
+
   </div>
 
 
