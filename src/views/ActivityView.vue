@@ -5,13 +5,6 @@
   </div>
   <div class="activity-text">
     <p>
-      vr. 05 januari 2024
-      <br>
-      Nieuwjaarsreceptie in ’t Teeuwland.
-      <br>
-      (aanvang 20.00 uur)
-    </p>
-    <p>
       ma. 19 februari 2024
       <br>
       Algemene Ledenvergadering in ’t Teeuwland.
@@ -51,20 +44,20 @@
       <br>
       Week van de appelverkoop.
     </p>
-    <p>
-    zo. 17 december 2024
-    <br>
-    Medewerking verlenen aan de kerstavonddienst
-    in de Ichthus kerk.
-    <br>
-    (aanvang 19.00 uur)
-    (aanwezig 17.45 uur)
-  </p>
   <p>
     za. 21 december 2024
     <br>
     Medewerking verlenen aan kerstconcert
     Fanfarekorps Irene in de Grote kerk.
+  </p>
+  <p>
+    zo. 22 december 2024
+    <br>
+    Medewerking verlenen aan de kerstavonddienst
+    in de Ichthus kerk.
+    <br>
+    (aanvang 19.00 uur)<br>
+    (aanwezig 17.45 uur)
   </p>
 
   </div>
