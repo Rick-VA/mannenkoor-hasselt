@@ -3,7 +3,7 @@
     <img src="/img/groepfoto-nOsYugKv4-transformed1.jpeg" class="group-photo">
     <img src="/img/groepfoto-nOsYugKv4-transformed.jpeg" class="group-photo1" style="display: none">
     <div class="group-photo-text">
-      <p >Welkom op de website van het Hasselt's Mannenkoor</p>
+      <p >Het Hasselt's Mannenkoor</p>
     </div>
   </div>
 
@@ -55,16 +55,17 @@ export default {
 
   .group-photo-text {
     color: black;
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: 600;
     text-align: center;
     box-shadow: 0 0 10px black;
     border-radius: 10px;
-    padding: .5rem;
+    padding-left: .75rem;
+    padding-right: .75rem;
     z-index: 1;
     position: relative;
-    top: 30rem;
-    width: 28rem;
+    top: 43rem;
+    width: auto;
     background-color: white;
   }
 
@@ -99,7 +100,7 @@ export default {
 
   @media (max-width: 1500px) {
     .group-photo-text {
-      top: 25rem;
+      top: 33rem;
     }
 
     .group-photo-container {
@@ -113,9 +114,6 @@ export default {
   }
 
   @media (max-width: 1300px) {
-    .group-photo-text {
-      top: 20rem;
-    }
 
     .group-photo {
       top: 3.5rem;
@@ -129,45 +127,35 @@ export default {
       margin-top: 0;
     }
 
-  }
-
-
-  @media (max-width: 1300px) {
     .group-photo-text {
-      top: 20rem;
-      font-size: 1.5rem;
-      width: 20rem;
-      font-weight: 550;
-
+      top: 30rem;
     }
 
     .info-text {
       p {
-        width: 75%;
+        width: 50%;
       }
     }
 
     .group-photo {
       top: 4rem;
     }
-
-    .group-photo-container {
-      height: 62dvh;
-    }
-
   }
 
   @media (max-width: 900px) {
     .group-photo-text {
-      top: 15rem;
-      font-size: 1.5rem;
-      width: 20rem;
-      font-weight: 550;
+      top: 20rem;
+      font-size: 1.25rem;
     }
 
     .info-text {
       p {
         width: 75%;
+        font-size: 1.25rem;
+      }
+
+      button {
+        padding: 1rem 1.5rem;
       }
     }
 
@@ -184,7 +172,7 @@ export default {
 
   @media (max-width: 799px) {
     .group-photo-text {
-      top: 11rem;
+      top: 18rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -201,14 +189,14 @@ export default {
     }
 
     .group-photo-container {
-      height: 40dvh;
+      height: 45dvh;
     }
 
   }
 
   @media (max-width: 640px) {
     .group-photo-text {
-      top: 15rem;
+      top: 20rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -242,7 +230,7 @@ export default {
 
   @media (max-width: 540px) {
     .group-photo-text {
-      top: 12rem;
+      top: 16rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -276,7 +264,7 @@ export default {
 
   @media (max-width: 460px) {
     .group-photo-text {
-      top: 10rem;
+      top: 13rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -310,7 +298,7 @@ export default {
 
   @media (max-width: 415px) {
     .group-photo-text {
-      top: 8rem;
+      top: 10rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
