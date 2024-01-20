@@ -45,6 +45,10 @@ export default {
           name: "Activiteiten",
         },
         {
+          route: "/fotoalbum",
+          name: "Fotoalbum",
+        },
+        {
           route: "/repetities",
           name: "Repetities",
         },
@@ -136,7 +140,7 @@ export default {
     background: black;
   }
   
-  @media (max-width: 900px) {
+  @media (max-width: 1150px) {
     .hamburger {
       display: block;
     }
