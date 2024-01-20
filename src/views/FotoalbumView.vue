@@ -9,9 +9,9 @@
       Hanzejaar in Hasselt. Zoals je ziet zijn we verkleed in de kledij van toen.
     </p>
     <div class="fotos">
-      <img src="/img/3a6bf5d1-dd63-4a2d-bd48-d3958e11fe14_thumb1440 (1).webp">
+      <img src="/img/3a6bf5d1-dd63-4a2d-bd48-d3958e11fe14_thumb1440.webp">
       <img src="/img/6377a866-33d0-481d-a03b-e2266d647099_thumb1440.webp">
-      <img src="/img/26231591-9522-439e-b46f-73bd4a578d0e_thumb1440 (1).webp">
+      <img src="/img/26231591-9522-439e-b46f-73bd4a578d0e_thumb1440.webp">
       <img src="/img/e2a93863-7ee8-4335-b30a-df3574f7a108_thumb1440.webp">
     </div>
 
@@ -22,8 +22,8 @@
     </p>
     <div class="fotos">
       <img src="/img/20190831_094234.jpg">
-      <img src="/img/DSC03079.JPG">
-      <img style="aspect-ratio: 2/3" src="/img/IMG_3977.JPG">
+      <img src="/img/DSC03079.jpg">
+      <img style="aspect-ratio: 2/3" src="/img/IMG_3977.jpg">
     </div>
 
     <p style="margin-top: 5rem">
@@ -31,14 +31,14 @@
       een gewone repetitie.
     </p>
     <div class="fotos">
-      <img src="/img/IMG_9265.JPG">
-      <img src="/img/IMG_9268.JPG">
-      <img src="/img/IMG_9269.JPG">
-      <img src="/img/IMG_9271.JPG">
-      <img src="/img/IMG_9280.JPG">
-      <img src="/img/IMG_9281.JPG">
-      <img src="/img/IMG_9282.JPG">
-      <img src="/img/IMG_9283.JPG">
+      <img src="/img/IMG_9265.jpg">
+      <img src="/img/IMG_9268.jpg">
+      <img src="/img/IMG_9269.jpg">
+      <img src="/img/IMG_9271.jpg">
+      <img src="/img/IMG_9280.jpg">
+      <img src="/img/IMG_9281.jpg">
+      <img src="/img/IMG_9282.jpg">
+      <img src="/img/IMG_9283.jpg">
     </div>
 
   </div>
@@ -73,16 +73,16 @@
   justify-content: flex-start;
   align-items: stretch;
 
-  img {
-    width: 100%;
-    aspect-ratio: 3/2;
-    object-fit: contain;
-  }
+
 
   @media (max-width: 800px) {
     grid-template-columns: 21rem;
   }
 }
 
-
+img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: contain;
+}
 </style>
