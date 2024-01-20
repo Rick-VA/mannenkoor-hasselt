@@ -7,6 +7,7 @@ import ActiviteitenView from '../views/ActivityView.vue'
 import RepetitiesView from '../views/RepetitiesView.vue'
 import RepertoireView from '../views/RepertoireView.vue'
 import LidView from '../views/LidView.vue'
+import FotoalbumView from '../views/FotoalbumView.vue'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -50,6 +51,11 @@ const router = createRouter({
       path: '/lidmaatschap',
       name: 'lidmaatschap',
       component: LidView
+    },
+    {
+      path: '/fotoalbum',
+      name: 'fotoalbum',
+      component: FotoalbumView
     }
   ],
   linkExactActiveClass: 'activeLink',
