@@ -38,7 +38,6 @@
       <img src="/img/IMG_9280.jpg">
       <img src="/img/IMG_9281.jpg">
       <img src="/img/IMG_9282.jpg">
-      <img src="/img/img_9283.jpg">
     </div>
 
   </div>
