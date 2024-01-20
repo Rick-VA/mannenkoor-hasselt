@@ -7,87 +7,95 @@
     <p>
       <h3>Het "Hasselt's Mannenkoor" zingt voornamelijk a-capella dat wil zeggen zonder instumentale begeleiding.</h3>
       <br>
-      <b>Geestelijke liederen.</b>
+      <b>Nederlands religieus:</b>
       <br>
-      <b>Nederlandstalig:</b>
+      Nader mijn God bij U,
       <br>
-      Heer ik kom tot U,
+      Abba Vader,
       <br>
-      Heer wij staan,
+      t Zij vreugde mijn deel is,
       <br>
-      Gij die treurt,
+      Liefde,
       <br>
-      Liefde.
+      Gedenk aan mij. O machtig God,
       <br>
-      <b>Duitstalig:</b>
       <br>
-      Ambrosianischer Lobgesang,
+      <b>Buitenlands religieus:</b>
       <br>
-      Dank sei dir Herr,
+      Jesus bleibet meine freude,
       <br>
-      Gross ist dein name,
+      Jesus bleibet meine freude,
       <br>
-      uit die Deutsche Messe: Zum Sanctus.
+      Beautiful Isle of nowhere,
       <br>
-      <b>Engelstalig:</b>
+      Hymne an die nacht,
       <br>
-      Amazing grace,
+      Adoramus te Christe,
       <br>
-      Belmont,
+      Dank sei Dir, Herr,
       <br>
-      I'LL wish I had given Him more,
+      Tebe Pojem,
       <br>
-      My Lord, what a morning,
+      Frieden,
       <br>
-      Tell me Why.
+      Deutsche Messe (Zum Eingang),
       <br>
-      <b>Ontspannings/Populaire liederen.</b>
+      Deutsche Messe (Zum Gloria),
       <br>
-      <b>Duitstalig:</b>
+      Deutsche Messe (Zum Sanctus),
       <br>
-      Aus die traube in die tonne,
+      Deutsche Messe (Zum Sanctus),
       <br>
-      Die zwölf Räuber,
+      Deutsche Messe (Agnus Dei),
       <br>
-      Ritters Abschied,
+      Mnogaja Leta,
       <br>
-      Wiegenlied.
+      Good Night dear friends,
       <br>
-      <b>Engelstalig:</b>
+      Where no one stands alone,
       <br>
-      From the time you say goodby,
       <br>
-      My Bonnie,
+      <b>Anders talige liederen:</b>
       <br>
-      Y'll never walk alone.
+      Hymne uit "Finlandia",
       <br>
-      <b>Russisch:</b>
+      Dobra Noc,
       <br>
-      Soldatenlied,
+      Home on the range,
       <br>
-      Wolga.
+      Hasselt"s Stedelied,
       <br>
-      <b>Musicals/Opera/Operette.</b>
+      You'll never walk alone,
       <br>
-      Uit "Cats" Memory,
+      Down by the sally gardens,
       <br>
-      Uit "Die Zauberflöte" het slotkoor en priesterkoor.
+      Love changes everything,
       <br>
-      <b>Kerstliederen.</b>
+      The Rose,
       <br>
-      o.a. Ere zij God,
+      We'll meet again,
       <br>
-      Die vesper,
+      Waltzing Mathilda,
       <br>
-      Heerlijk klonk het lied der engelen,
+      When I am sixty-four,
       <br>
-      Stille nacht,
+      Hoebawa si moja goro,
       <br>
-      Nowell, nowell,
+      Thank you for the music,
       <br>
-      Little drummerboy,
+      The last farewell (1),
       <br>
-      Freuet euch all, Yoy to the world.
+      Auld lang syne,
+      <br>
+      <br>
+      <b>Negro-spirituals:</b>
+      <br>
+      My Lord what a morning,
+      <br>
+      Old Black Joe,
+      <br>
+      Go tell it on the mountain,
+      <br>
     </p>
   </div>
 
