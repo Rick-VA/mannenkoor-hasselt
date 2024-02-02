@@ -7,6 +7,16 @@
     <p>
       Zingt U graag maar aarzelt U nog om de stap naar het lidmaatschap van een zangkoor te maken, dan bij deze aarzel niet langer maar kom een repetitie bijwonen!
     </p>
+    <p>
+      Of neem contact op met onze secretaris:
+      <br>
+      <br>
+      Henk Bruins
+      <br>
+      +31 6 22552745
+      <br>
+      henk.bruins@planet.nl
+    </p>
   </div>
 
 
