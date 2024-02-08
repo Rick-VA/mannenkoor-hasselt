@@ -15,7 +15,7 @@
       <br>
       +31 6 22552745
       <br>
-      henk.bruins@planet.nl
+      hethasseltsmannenkoor@gmail.com
     </p>
   </div>
 
