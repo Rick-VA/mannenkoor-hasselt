@@ -275,7 +275,7 @@ export default {
 
   @media (max-width: 540px) {
     .group-photo-text {
-      top: 16rem;
+      top: 17rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -343,7 +343,7 @@ export default {
 
   @media (max-width: 440px) {
     .group-photo-text {
-      top: 10rem;
+      top: 12rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
@@ -377,7 +377,7 @@ export default {
 
   @media (max-width: 400px) {
     .group-photo-text {
-      top: 50%!important;
+      top: 10rem!important;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
