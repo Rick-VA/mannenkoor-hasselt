@@ -141,7 +141,7 @@ export default {
       top: 4rem;
     }
   }
-  
+
   @media (max-height: 900px) {
     .group-photo-container {
       height: 85vh;
@@ -309,7 +309,7 @@ export default {
 
   @media (max-width: 460px) {
     .group-photo-text {
-      top: 13rem;
+      top: 14rem;
       font-size: 1rem;
       width: 15rem;
       font-weight: 550;
