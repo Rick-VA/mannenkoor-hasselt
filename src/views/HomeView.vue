@@ -50,7 +50,7 @@ export default {
     display: flex;
     align-items: center;
     flex-direction: column;
-    height: 90dvh;
+    height: 90vh;
   }
 
   .group-photo-text {
@@ -104,7 +104,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 80dvh;
+      height: 80vh;
     }
 
     .info-text {
@@ -120,7 +120,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 70dvh;
+      height: 70vh;
     }
 
     .info-text {
@@ -144,7 +144,7 @@ export default {
   
   @media (max-height: 900px) {
     .group-photo-container {
-      height: 85dvh;
+      height: 85vh;
     }
 
     .group-photo-text {
@@ -185,6 +185,35 @@ export default {
 
   }
 
+  @media (max-height: 760px) {
+    .group-photo-text {
+      top: 80%!important;
+      font-size: 1.25rem;
+    }
+
+    .group-photo-container {
+      height: 50vh!important;
+    }
+
+    .info-text {
+      p {
+        width: 50%;
+        font-size: 1.25rem;
+      }
+
+      button {
+        padding: 1rem 1.5rem;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+    }
+
+  }
+
+
+
 
   @media (max-width: 799px) {
     .group-photo-text {
@@ -205,7 +234,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 45dvh;
+      height: 45vh;
     }
 
   }
@@ -239,7 +268,7 @@ export default {
     }
 
     .group-photo-container {
-      height:50dvh;
+      height:50vh;
     }
 
   }
@@ -273,7 +302,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 40dvh;
+      height: 40vh;
     }
 
   }
@@ -307,7 +336,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35dvh;
+      height: 35vh;
     }
 
   }
@@ -341,7 +370,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35dvh;
+      height: 35vh;
     }
 
   }
@@ -375,7 +404,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35dvh;
+      height: 35vh;
     }
 
   }
