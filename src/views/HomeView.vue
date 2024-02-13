@@ -192,7 +192,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 50vh!important;
+      height: 50vh;
     }
 
     .info-text {
@@ -268,7 +268,7 @@ export default {
     }
 
     .group-photo-container {
-      height:50vh;
+      height:40vh;
     }
 
   }
@@ -302,7 +302,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 40vh;
+      height: 35vh;
     }
 
   }
@@ -336,7 +336,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35vh;
+      height: 30vh;
     }
 
   }
@@ -370,7 +370,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35vh;
+      height: 30vh;
     }
 
   }
@@ -404,7 +404,7 @@ export default {
     }
 
     .group-photo-container {
-      height: 35vh;
+      height: 30vh;
     }
 
   }
