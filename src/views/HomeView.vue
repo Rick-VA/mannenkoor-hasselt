@@ -64,7 +64,7 @@ export default {
     padding-right: .75rem;
     z-index: 1;
     position: relative;
-    top: 43rem;
+    top: 80%;
     width: auto;
     background-color: white;
   }
@@ -100,7 +100,7 @@ export default {
 
   @media (max-width: 1500px) {
     .group-photo-text {
-      top: 33rem;
+      top: 70%;
     }
 
     .group-photo-container {
@@ -128,7 +128,27 @@ export default {
     }
 
     .group-photo-text {
-      top: 30rem;
+      top: 60%;
+    }
+
+    .info-text {
+      p {
+        width: 50%;
+      }
+    }
+
+    .group-photo {
+      top: 4rem;
+    }
+  }
+  
+  @media (max-height: 900px) {
+    .group-photo-container {
+      height: 85dvh;
+    }
+
+    .group-photo-text {
+      top: 70%!important;
     }
 
     .info-text {
@@ -142,9 +162,9 @@ export default {
     }
   }
 
-  @media (max-width: 900px) {
+  @media (max-width: 1100px) {
     .group-photo-text {
-      top: 20rem;
+      top: 70%!important;
       font-size: 1.25rem;
     }
 
@@ -161,10 +181,6 @@ export default {
 
     .group-photo {
       top: 5rem;
-    }
-
-    .group-photo-container {
-      height: 50dvh;
     }
 
   }
@@ -296,7 +312,7 @@ export default {
 
   }
 
-  @media (max-width: 415px) {
+  @media (max-width: 440px) {
     .group-photo-text {
       top: 10rem;
       font-size: 1rem;
@@ -329,6 +345,42 @@ export default {
     }
 
   }
+
+  @media (max-width: 400px) {
+    .group-photo-text {
+      top: 50%!important;
+      font-size: 1rem;
+      width: 15rem;
+      font-weight: 550;
+    }
+
+    .info-text {
+      p {
+        width: 75%;
+      }
+    }
+
+    .group-photo {
+      top: 5rem;
+      display: none;
+    }
+
+    .group-photo1 {
+      top: 4rem;
+      display: block!important;
+      width: 100%;
+      object-fit: contain;
+      z-index: 0;
+      position: absolute;
+    }
+
+    .group-photo-container {
+      height: 35dvh;
+    }
+
+  }
+
+
 
 
 </style>
