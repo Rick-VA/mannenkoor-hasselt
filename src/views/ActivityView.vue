@@ -5,11 +5,11 @@
   </div>
   <div class="activity-text">
     <p>
-      ma. 19 februari 2024
+      za. 25 mei 2024
       <br>
-      Algemene Ledenvergadering in ’t Teeuwland.
+      Voorjaarsconcert in de Ichthus kerk in Hasselt
       <br>
-      (aanvang 19.30 uur)
+      (16:00 uur)
     </p>
     <p>
       ma. 03 juni 2024
