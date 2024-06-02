@@ -5,13 +5,6 @@
   </div>
   <div class="activity-text">
     <p>
-      za. 25 mei 2024
-      <br>
-      Voorjaarsconcert in de Ichthus kerk in Hasselt
-      <br>
-      (16:00 uur)
-    </p>
-    <p>
       ma. 03 juni 2024
       <br>
       Laatste repetitie voor de vakantie.
@@ -19,11 +12,18 @@
 
     </p>
     <p>
+      za. 24 augustus 2024 
+      <br>
+      Zomermarkt (1 e zaterdag euifeest)
+      <br>
+      (aanvang 11.00 uur)<br>
+      (einde 16.00 uur)
+    </p>
+    <p>
       ma. 26 augustus 2024
       <br>
       Eerste repetitie na de vakantie.
       <br>
-
     </p>
     <p>
       za. 14 september 2024
@@ -58,6 +58,12 @@
     <br>
     (aanvang 19.00 uur)<br>
     (aanwezig 17.45 uur)
+  </p>
+  <p>
+    za. 03 mei 2025
+    <br>
+    Voorjaar concert in de Ichthus kerk samen met het
+    accordeonorkest Milonga uit Zwolle
   </p>
 
   </div>
