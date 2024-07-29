@@ -31,12 +31,6 @@
       Gerard Boerhof
       <br>
     </p>
-    <p>
-      <b>Algemene zaken:</b>
-      <br>
-      Leo Metsemakers
-      <br>
-    </p>
   </div>
 
 
