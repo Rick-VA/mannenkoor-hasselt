@@ -26,13 +26,6 @@
       <br>
     </p>
     <p>
-      za. 14 september 2024
-      <br>
-      Open Monumenten Dag 2024.
-      <br>
-      (middag)
-    </p>
-    <p>
       za. 21 september 2024
       <br>
       Koorreisje.
